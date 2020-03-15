@@ -5,6 +5,7 @@ Collection of references and sources of information about COVID-19
 ## Primary source of information
 
 - COVID-19 CORONAVIRUS OUTBREAK https://www.worldometers.info/coronavirus/
+- WHO (World Health Organization) https://www.who.int/emergencies/diseases/novel-coronavirus-2019
 
 ## Dashboards
 
