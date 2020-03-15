@@ -64,4 +64,5 @@ Hashtags
 ### YouTube
 
 - Live dashboard with chat - https://www.youtube.com/watch?v=qgylp3Td1Bw
-- Daily medical commentary and analysis - https://www.youtube.com/watch?v=9vMXSkKLg2I&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_
+- Daily medical commentary and analysis by MedCram - https://www.youtube.com/watch?v=9vMXSkKLg2I&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_
+- Medical commentary and analysis by Dr. John Campbell - https://www.youtube.com/user/Campbellteaching/videos
