@@ -6,6 +6,7 @@ Collection of references and sources of information about COVID-19
 
 - COVID-19 CORONAVIRUS OUTBREAK https://www.worldometers.info/coronavirus/
 - WHO (World Health Organization) https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+- Wikipedia https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 
 ## Dashboards
 
@@ -59,3 +60,8 @@ Hashtags
 - #SARSCoV2 - https://twitter.com/hashtag/sarscov2
 - #COVIDー19 - https://twitter.com/hashtag/COVIDー19
 - #Coronavirus - https://twitter.com/hashtag/Coronavirus
+
+### YouTube
+
+- Live dashboard with chat - https://www.youtube.com/watch?v=qgylp3Td1Bw
+- Daily medical commentary and analysis - https://www.youtube.com/watch?v=9vMXSkKLg2I&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_
