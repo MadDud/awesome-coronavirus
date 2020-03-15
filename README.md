@@ -64,6 +64,10 @@ Collection of references and sources of information about COVID-19
 
 - https://www.nhs.uk/conditions/coronavirus-covid-19/
 
+### United States
+
+- https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html
+
 ## Social media
 
 ### Twitter
