@@ -41,3 +41,12 @@ Collection of references and sources of information about COVID-19
 ### United Kingdom
 
 - https://www.nhs.uk/conditions/coronavirus-covid-19/
+
+## Social media
+
+### Twitter
+
+Hashtags
+- #SARSCoV2 - https://twitter.com/hashtag/sarscov2
+- #COVIDー19 - https://twitter.com/hashtag/COVIDー19
+- #Coronavirus - https://twitter.com/hashtag/Coronavirus
