@@ -20,6 +20,7 @@ Collection of references and sources of information about COVID-19
 - https://github.com/CSSEGISandData/2019-nCoV
 - https://www.programmableweb.com/api/coronavirus-rest-api-v10
 - https://github.com/javieraviles/covidAPI
+- Google spreadsheet - https://docs.google.com/spreadsheets/d/1pYXP41wKxSZS5fKO8ScrTB4duj6r4Ho_-ifyxg0WHGY/edit#gid=0
 
 ## Sources of information by country
 
