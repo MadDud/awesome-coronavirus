@@ -39,9 +39,17 @@ Collection of references and sources of information about COVID-19
 
 - http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
 
+### Norway
+
+- https://www.fhi.no/en/op/novel-coronavirus-facts-advice/
+
 ### Poland
 
 - https://www.gov.pl/web/koronawirus
+
+### Singapore
+
+- https://www.gov.sg/features/covid-19
 
 ### Spain
 
@@ -60,12 +68,12 @@ Collection of references and sources of information about COVID-19
 
 ### Twitter
 
-Hashtags
+#### Hashtags
 - #SARSCoV2 - https://twitter.com/hashtag/sarscov2
 - #COVIDー19 - https://twitter.com/hashtag/COVIDー19
 - #Coronavirus - https://twitter.com/hashtag/Coronavirus
 
-### YouTube
+#### YouTube
 
 - Live dashboard with chat - https://www.youtube.com/watch?v=qgylp3Td1Bw
 - Daily medical commentary and analysis by MedCram - https://www.youtube.com/watch?v=9vMXSkKLg2I&list=PLQ_IRFkDInv_zLVFTgXA8tW0Mf1iiuuM_
