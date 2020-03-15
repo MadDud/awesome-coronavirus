@@ -34,6 +34,10 @@ Collection of references and sources of information about COVID-19
 
 - https://www.gov.pl/web/koronawirus
 
+### Spain
+
+- https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm
+
 ### Switzerland
 
 - http://bag.admin.ch/
