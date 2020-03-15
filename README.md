@@ -23,6 +23,10 @@ Collection of references and sources of information about COVID-19
 
 ## Sources of information by country
 
+### Canada
+
+- https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
+
 ### France
 
 - https://www.gouvernement.fr/en/coronavirus-covid-19
