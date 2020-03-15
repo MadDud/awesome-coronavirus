@@ -30,6 +30,10 @@ Collection of references and sources of information about COVID-19
 
 - https://www.bundesgesundheitsministerium.de/coronavirus.html
 
+### Italy
+
+- http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
+
 ### Poland
 
 - https://www.gov.pl/web/koronawirus
