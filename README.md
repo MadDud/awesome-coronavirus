@@ -63,6 +63,7 @@ Collection of references and sources of information about COVID-19
 ### Switzerland
 
 - https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html
+- https://foph-coronavirus.ch/
 - Self-evaluation - https://coronavirus.unisante.ch/en
 
 ### United Kingdom
