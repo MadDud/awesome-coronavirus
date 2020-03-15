@@ -31,6 +31,10 @@ Collection of references and sources of information about COVID-19
 
 - https://www.bundesgesundheitsministerium.de/coronavirus.html
 
+### Hungary
+
+- https://koronavirus.gov.hu/
+
 ### Italy
 
 - http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
