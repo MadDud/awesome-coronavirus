@@ -64,6 +64,10 @@ Collection of references and sources of information about COVID-19
 
 - https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm
 
+### Sweden
+
+- https://www.sj.se/sv/om/om-sj/senaste-info-coronavirus-o-tagresor.html
+
 ### Switzerland
 
 - https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html
