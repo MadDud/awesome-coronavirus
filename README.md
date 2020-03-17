@@ -10,7 +10,7 @@ Collection of references and sources of information about COVID-19
 
 ## Dashboards
 
-- Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9-ecf6
+- Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 - Coronavirus Tracker https://visalist.io/emergency/coronavirus
 - COVID19 Live Interactive Dashboard (v1) https://datastudio.google.com/embed/u/0/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB
 - https://corona-scanner.com/
