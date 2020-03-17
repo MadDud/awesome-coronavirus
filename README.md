@@ -40,6 +40,10 @@ Collection of references and sources of information about COVID-19
 
 - https://koronavirus.gov.hu/
 
+### Ireland
+
+- https://www.gov.ie/en/campaigns/c36c85-covid-19-coronavirus/
+
 ### Italy
 
 - http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
