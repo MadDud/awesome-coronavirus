@@ -100,6 +100,15 @@ Collection of references and sources of information about COVID-19
 
 - Coronavirus-Update mit Christian Drosten (DE) https://www.ardaudiothek.de/coronavirus-update-mit-christian-drosten/72451786
 
+## Research
+
+### Hypertension
+
+- https://www.thelancet.com/pdfs/journals/lanres/PIIS2213-2600(20)30116-8.pdf
+- https://www.cell.com/trends/pharmacological-sciences/references/S0165-6147(04)00097-5
+- http://www.nephjc.com/news/covidace2
+- https://www.youtube.com/watch?v=1vZDVbqRhyM
+
 ## Projects
 
 ### Low-Cost Open-Source Ventilator-ish Device
