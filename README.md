@@ -100,8 +100,8 @@ Collection of references and sources of information about COVID-19
 
 - Coronavirus-Update mit Christian Drosten (DE) https://www.ardaudiothek.de/coronavirus-update-mit-christian-drosten/72451786
 
-### Projects
+## Projects
 
-## Low-Cost Open-Source Ventilator-ish Device
+### Low-Cost Open-Source Ventilator-ish Device
 
 - https://github.com/jcl5m1/ventilator/blob/master/README.md
