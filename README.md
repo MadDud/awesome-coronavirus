@@ -14,6 +14,7 @@ Collection of references and sources of information about COVID-19
 - Coronavirus Tracker https://visalist.io/emergency/coronavirus
 - COVID19 Live Interactive Dashboard (v1) https://datastudio.google.com/embed/u/0/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB
 - https://corona-scanner.com/
+- https://epidemic-stats.com/coronavirus
 
 ## REST API
 
