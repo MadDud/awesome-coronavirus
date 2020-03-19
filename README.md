@@ -7,6 +7,7 @@ Collection of references and sources of information about COVID-19
 - COVID-19 CORONAVIRUS OUTBREAK https://www.worldometers.info/coronavirus/
 - WHO (World Health Organization) https://www.who.int/emergencies/diseases/novel-coronavirus-2019
 - Wikipedia https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
+- The Coronavirus Explained & What You Should Do - https://www.youtube.com/watch?v=BtN-goy9VOY
 
 ## Dashboards
 
