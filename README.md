@@ -115,6 +115,7 @@ Collection of references and sources of information about COVID-19
 
 ### Low-Cost Open-Source Ventilator-ish Device
 
+- https://opensourceventilator.ie/
 - https://github.com/jcl5m1/ventilator/blob/master/README.md
 
 ### COVID-19 Open Research Dataset
