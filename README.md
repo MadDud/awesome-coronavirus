@@ -120,3 +120,8 @@ Collection of references and sources of information about COVID-19
 ### COVID-19 Open Research Dataset
 
 - https://pages.semanticscholar.org/coronavirus-research
+
+### Commercial Big Data Platforms showing their skills on Covid-19 Data
+
+- Splunk - <https://covid-19.splunkforgood.com/coronavirus__covid_19_>
+- MikroFocus IDOL - (https://blog.microfocus.com/tracking-the-covid-19-coronavirus-using-micro-focus-idol/)
