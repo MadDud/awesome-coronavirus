@@ -4,18 +4,19 @@ Collection of references and sources of information about COVID-19
 
 ## Primary source of information
 
-- COVID-19 CORONAVIRUS OUTBREAK https://www.worldometers.info/coronavirus/
-- WHO (World Health Organization) https://www.who.int/emergencies/diseases/novel-coronavirus-2019
-- Wikipedia https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
+- COVID-19 CORONAVIRUS OUTBREAK - https://www.worldometers.info/coronavirus/
+- WHO (World Health Organization) - https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+- Wikipedia - https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 - The Coronavirus Explained & What You Should Do - https://www.youtube.com/watch?v=BtN-goy9VOY
-- Handbook of COVID-19 Prevention and Treatment: https://covid-19.alibabacloud.com/
-- Bing COVID-19 Tracker https://www.bing.com/covid
+- Handbook of COVID-19 Prevention and Treatment - https://covid-19.alibabacloud.com/
+- Bing COVID-19 Tracker - https://www.bing.com/covid
+- How many tests for COVID-19 are being performed around the world - https://ourworldindata.org/covid-testing
 
 ## Dashboards
 
-- Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-- Coronavirus Tracker https://visalist.io/emergency/coronavirus
-- COVID19 Live Interactive Dashboard (v1) https://datastudio.google.com/embed/u/0/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB
+- Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University - (JHU) https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+- Coronavirus Tracker - https://visalist.io/emergency/coronavirus
+- COVID19 Live Interactive Dashboard (v1) - https://datastudio.google.com/embed/u/0/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB
 - https://corona-scanner.com/
 - https://epidemic-stats.com/coronavirus
 
