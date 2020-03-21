@@ -10,7 +10,9 @@ Collection of references and sources of information about COVID-19
 - The Coronavirus Explained & What You Should Do - https://www.youtube.com/watch?v=BtN-goy9VOY
 - Handbook of COVID-19 Prevention and Treatment - https://covid-19.alibabacloud.com/
 - Bing COVID-19 Tracker - https://www.bing.com/covid
-- How many tests for COVID-19 are being performed around the world - https://ourworldindata.org/covid-testing
+- How many tests for COVID-19 are being performed around the world 
+  - https://ourworldindata.org/covid-testing
+  - https://www.worldometers.info/coronavirus/covid-19-testing/
 
 ## Dashboards
 
