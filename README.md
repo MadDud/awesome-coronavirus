@@ -9,6 +9,7 @@ Collection of references and sources of information about COVID-19
 - Wikipedia https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 - The Coronavirus Explained & What You Should Do - https://www.youtube.com/watch?v=BtN-goy9VOY
 - Handbook of COVID-19 Prevention and Treatment: https://covid-19.alibabacloud.com/
+- Bing COVID-19 Tracker https://www.bing.com/covid
 
 ## Dashboards
 
@@ -38,6 +39,7 @@ Collection of references and sources of information about COVID-19
 ### Germany
 
 - https://www.bundesgesundheitsministerium.de/coronavirus.html
+- https://www.duesseldorf.de/international/information-on-the-corona-virus.html
 
 ### Hungary
 
@@ -105,6 +107,8 @@ Collection of references and sources of information about COVID-19
 - Coronavirus-Update mit Christian Drosten (DE) https://www.ardaudiothek.de/coronavirus-update-mit-christian-drosten/72451786
 
 ## Research
+
+- https://www.rki.de/EN/Home/homepage_node.html
 
 ### Hypertension
 
