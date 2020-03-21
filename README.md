@@ -89,9 +89,10 @@ Collection of references and sources of information about COVID-19
 
 ### Twitter
 
-- #SARSCoV2 - https://twitter.com/hashtag/sarscov2
-- #COVIDー19 - https://twitter.com/hashtag/COVIDー19
 - #Coronavirus - https://twitter.com/hashtag/Coronavirus
+- #CoronaCrisis - https://twitter.com/hashtag/CoronaCrisis
+- #SARSCoV2 - https://twitter.com/hashtag/sarscov2
+- #COVID19 - https://twitter.com/hashtag/COVID19
 
 ### YouTube
 
