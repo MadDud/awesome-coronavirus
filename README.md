@@ -25,6 +25,8 @@ Information about tests conducted per country
 - COVID19 Live Interactive Dashboard (v1) - https://datastudio.google.com/embed/u/0/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB
 - https://corona-scanner.com/
 - https://epidemic-stats.com/coronavirus
+- Splunk - https://covid-19.splunkforgood.com/coronavirus__covid_19_
+
 
 ## REST API
 
@@ -32,6 +34,11 @@ Information about tests conducted per country
 - https://www.programmableweb.com/api/coronavirus-rest-api-v10
 - https://github.com/javieraviles/covidAPI
 - Google spreadsheet - https://docs.google.com/spreadsheets/d/1pYXP41wKxSZS5fKO8ScrTB4duj6r4Ho_-ifyxg0WHGY/edit#gid=0
+
+### COVID-19 Open Research Dataset
+
+- https://pages.semanticscholar.org/coronavirus-research
+
 
 ## Sources of information by country
 
@@ -142,11 +149,6 @@ Information about tests conducted per country
 - Open Source COVID19 Medical Supplies - https://www.facebook.com/groups/670932227050506/about
   - their constantly updated google doc https://docs.google.com/document/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/preview?fbclid=IwAR2_SLeZwnmBBHhZ7nNVZWSWMor0FrC6aQnEs4Icd37a70wCQc9kqSYamYc
 
-### COVID-19 Open Research Dataset
-
-- https://pages.semanticscholar.org/coronavirus-research
-
 ### Commercial Big Data Platforms showing their skills on Covid-19 Data
 
-- Splunk - <https://covid-19.splunkforgood.com/coronavirus__covid_19_>
 - MikroFocus IDOL - (https://blog.microfocus.com/tracking-the-covid-19-coronavirus-using-micro-focus-idol/)
