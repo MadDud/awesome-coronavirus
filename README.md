@@ -131,6 +131,17 @@ Information about tests conducted per country
 - https://opensourceventilator.ie/
 - https://github.com/jcl5m1/ventilator/blob/master/README.md
 
+### selected 3D-Printed Projects
+#### Hands Free door openers
+- https://www.materialise.com/en/hands-free-door-opener
+- https://www.thingiverse.com/thing:4233133
+#### Face Shields
+- https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2
+
+### Facebook Groups of opensource medical equipment
+- Open Source COVID19 Medical Supplies - https://www.facebook.com/groups/670932227050506/about
+  - their constantly updated google doc https://docs.google.com/document/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/preview?fbclid=IwAR2_SLeZwnmBBHhZ7nNVZWSWMor0FrC6aQnEs4Icd37a70wCQc9kqSYamYc
+
 ### COVID-19 Open Research Dataset
 
 - https://pages.semanticscholar.org/coronavirus-research
