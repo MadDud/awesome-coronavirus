@@ -9,7 +9,6 @@ Collection of references and sources of information about COVID-19
 - Wikipedia - https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 - The Coronavirus Explained & What You Should Do - https://www.youtube.com/watch?v=BtN-goy9VOY
 - Handbook of COVID-19 Prevention and Treatment - https://covid-19.alibabacloud.com/
-- Bing COVID-19 Tracker - https://www.bing.com/covid
 
 ## Testing 
 
@@ -26,6 +25,7 @@ Information about tests conducted per country
 - https://corona-scanner.com/
 - https://epidemic-stats.com/coronavirus
 - Splunk - https://covid-19.splunkforgood.com/coronavirus__covid_19_
+- Bing COVID-19 Tracker - https://www.bing.com/covid
 
 
 ## Data and research
