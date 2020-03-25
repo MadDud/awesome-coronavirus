@@ -32,6 +32,7 @@ Information about tests conducted per country
 
 - COVID-19 Open Research Dataset - https://pages.semanticscholar.org/coronavirus-research
 - Build a solution for the COVID-19 crisis - https://covid19challenge.mit.edu/
+- https://www.rki.de/EN/Home/homepage_node.html
 
 ### REST API
 
@@ -121,8 +122,6 @@ Information about tests conducted per country
 - Coronavirus-Update mit Christian Drosten (DE) https://www.ardaudiothek.de/coronavirus-update-mit-christian-drosten/72451786
 
 ## Health research
-
-- https://www.rki.de/EN/Home/homepage_node.html
 
 ### Hypertension
 
