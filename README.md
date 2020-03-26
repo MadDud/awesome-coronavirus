@@ -156,3 +156,7 @@ Information about tests conducted per country
 ### Commercial Big Data Platforms showing their skills on Covid-19 Data
 
 - MikroFocus IDOL - (https://blog.microfocus.com/tracking-the-covid-19-coronavirus-using-micro-focus-idol/)
+
+### Security of medical devices used to fight COVID-19
+
+- COVID-19 CTI League - https://cti-league.com/
