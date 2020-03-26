@@ -24,7 +24,7 @@ Information about tests conducted per country
 - COVID19 Live Interactive Dashboard (v1) - https://datastudio.google.com/embed/u/0/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB
 - https://corona-scanner.com/
 - https://epidemic-stats.com/coronavirus
-- Splunk - https://covid-19.splunkforgood.com/coronavirus__covid_19_
+- Splunk - <https://covid-19.splunkforgood.com/coronavirus__covid_19_>
 - Bing COVID-19 Tracker - https://www.bing.com/covid
 
 
