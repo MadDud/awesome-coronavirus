@@ -56,11 +56,6 @@ Information about tests conducted per country
 - https://www.bundesgesundheitsministerium.de/coronavirus.html
 - https://www.duesseldorf.de/international/information-on-the-corona-virus.html
 
-### Great Britain
-
-- https://www.gov.uk/coronavirus
-- https://www.bbc.com/news/coronavirus
-
 ### Hungary
 
 - https://koronavirus.gov.hu/
@@ -105,6 +100,8 @@ Information about tests conducted per country
 
 ### United States
 
+- https://www.gov.uk/coronavirus
+- https://www.bbc.com/news/coronavirus
 - https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html
 
 ## Social media
