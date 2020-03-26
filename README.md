@@ -43,6 +43,14 @@ Information about tests conducted per country
 
 ## Sources of information by country
 
+### Austria
+
+- https://www.austria.info/en/service-and-facts/coronavirus-information
+
+### Brasil
+
+- https://coronavirus.saude.gov.br/
+
 ### Canada
 
 - https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
