@@ -56,6 +56,11 @@ Information about tests conducted per country
 - https://www.bundesgesundheitsministerium.de/coronavirus.html
 - https://www.duesseldorf.de/international/information-on-the-corona-virus.html
 
+### Great Britain
+
+- https://www.gov.uk/coronavirus
+- https://www.bbc.com/news/coronavirus
+
 ### Hungary
 
 - https://koronavirus.gov.hu/
