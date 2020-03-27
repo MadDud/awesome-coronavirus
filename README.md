@@ -76,6 +76,11 @@ Information about tests conducted per country
 
 - http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
 
+### Morocco
+
+- Official Gvt Portal for Coronavirus Stats (French) : http://www.covidmaroc.ma/pages/Accueil.aspx
+- Official Gvt Portal for Coronavirus Stats (Arabic) : http://www.covidmaroc.ma/Pages/AccueilAR.aspx
+
 ### Norway
 
 - https://www.fhi.no/en/op/novel-coronavirus-facts-advice/
