@@ -1,6 +1,6 @@
 # awesome-coronavirus
 
-Collection of references and sources of information about COVID-19
+Collection of references and sources about COVID-19
 
 ## Primary source of information
 
@@ -9,6 +9,8 @@ Collection of references and sources of information about COVID-19
 - Wikipedia - https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 - The Coronavirus Explained & What You Should Do - https://www.youtube.com/watch?v=BtN-goy9VOY
 - Handbook of COVID-19 Prevention and Treatment - https://covid-19.alibabacloud.com/
+- Consultation Risk assessment https://www.akkure4covid.com/
+
 
 ## Testing 
 
@@ -16,6 +18,7 @@ Information about tests conducted per country
 
 - https://ourworldindata.org/covid-testing
 - https://www.worldometers.info/coronavirus/covid-19-testing/
+- Online diagnosis - https://covid.apollo247.com/
 
 ## Dashboards
 
@@ -68,6 +71,10 @@ Information about tests conducted per country
 
 - https://koronavirus.gov.hu/
 
+### India
+
+- Tracker - https://www.covid19india.org/
+
 ### Ireland
 
 - https://www.gov.ie/en/campaigns/c36c85-covid-19-coronavirus/
@@ -75,6 +82,10 @@ Information about tests conducted per country
 ### Italy
 
 - http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
+
+### Japan
+
+- Tracker - https://covid19japan.com/
 
 ### Morocco
 
@@ -104,8 +115,11 @@ Information about tests conducted per country
 ### Switzerland
 
 - https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html
-- https://foph-coronavirus.ch/
-- Self-evaluation - https://coronavirus.unisante.ch/en
+- Information in English https://foph-coronavirus.ch/
+- Informazioni in italiano https://ofsp-coronavirus.ch
+- Informations en français https://ufsp-coronavirus.ch
+- Online diagnosis - https://coronavirus.unisante.ch/en
+- Tracker - https://www.corona-data.ch/
 
 ### United Kingdom
 
@@ -175,3 +189,5 @@ Information about tests conducted per country
 ### Security of medical devices used to fight COVID-19
 
 - COVID-19 CTI League - https://cti-league.com/
+- MISP with cyber and medical information - https://covid-19.iglocska.eu/ (get access via info@circl.lu)
+- CTI resources - https://github.com/krassi/covid19-related
