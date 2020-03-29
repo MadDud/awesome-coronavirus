@@ -130,11 +130,11 @@ Information about tests conducted per country
 ### United Kingdom
 
 - https://www.nhs.uk/conditions/coronavirus-covid-19/
+- https://www.gov.uk/coronavirus
+- https://www.bbc.com/news/coronavirus
 
 ### United States
 
-- https://www.gov.uk/coronavirus
-- https://www.bbc.com/news/coronavirus
 - https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html
 
 ## Social media
