@@ -109,6 +109,7 @@ Information about tests conducted per country
 ### Singapore
 
 - https://www.gov.sg/features/covid-19
+- https://sph.nus.edu.sg/covid-19/
 
 ### Spain
 
