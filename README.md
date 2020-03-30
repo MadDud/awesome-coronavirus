@@ -198,6 +198,7 @@ Information about tests conducted per country
 - COVID-19 CTI League - https://cti-league.com/
 - MISP with cyber and medical information - https://covid-19.iglocska.eu/ (get access via info@circl.lu)
 - CTI resources - https://github.com/krassi/covid19-related
+- IoC - https://github.com/COVID-19-CTI-LEAGUE/PUBLIC_RELEASE
 
 ## Stuff to keep the kids happy
 
