@@ -168,10 +168,11 @@ Information about tests conducted per country
 
 ## Projects
 
-### Low-Cost Open-Source Ventilator-ish Device
+### Open-Source Ventilator
 
 - https://opensourceventilator.ie/
 - https://github.com/jcl5m1/ventilator/blob/master/README.md
+- MIT Emergency Ventilator (E-Vent) Project - https://e-vent.mit.edu/
 
 ### selected 3D-Printed Projects
 
