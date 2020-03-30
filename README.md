@@ -198,3 +198,21 @@ Information about tests conducted per country
 - COVID-19 CTI League - https://cti-league.com/
 - MISP with cyber and medical information - https://covid-19.iglocska.eu/ (get access via info@circl.lu)
 - CTI resources - https://github.com/krassi/covid19-related
+
+## Stuff to keep the kids happy
+
+### World
+#### Minecraft
+
+- If you have A valid O365 EDU Account, Minecraft Edu can be used for free - https://education.minecraft.net/blog/microsoft-extends-access-to-minecraft-education-edition-and-resources-to-support-remote-learning/
+
+
+### Poland
+- Education - https://www.gov.pl/web/zdalnelekcje
+- Several online games, also Polonads own Mincraft servers https://grarantanna.pl/ (source https://www.jpost.com/International/Poland-launches-Minecraft-servers-for-children-during-coronavirus-lockdown-621993)
+
+
+### Germany
+- listing of different (youtube) sports channels - https://www.kinderstarkmachen.de/suchtvorbeugung/eltern/zuhause-in-bewegung-bleiben.html
+- Basteln / Handcrafting  https://www.kinderstarkmachen.de/suchtvorbeugung/eltern/bastelideen-fuer-die-ganze-familie.html
+ 
