@@ -209,7 +209,7 @@ Information about tests conducted per country
 
 ### Poland
 - Education - https://www.gov.pl/web/zdalnelekcje
-- Several online games, also Polonads own Mincraft servers https://grarantanna.pl/ (source https://www.jpost.com/International/Poland-launches-Minecraft-servers-for-children-during-coronavirus-lockdown-621993)
+- Several online games, also Polands own Mincraft servers https://grarantanna.pl/ (source https://www.jpost.com/International/Poland-launches-Minecraft-servers-for-children-during-coronavirus-lockdown-621993)
 
 
 ### Germany
