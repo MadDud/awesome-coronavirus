@@ -174,6 +174,24 @@ Information about tests conducted per country
 - https://github.com/jcl5m1/ventilator/blob/master/README.md
 - MIT Emergency Ventilator (E-Vent) Project - https://e-vent.mit.edu/
 
+### Maker Initiatives
+(source of the below: https://octoprint.org/blog/2020/03/31/3d-printing-against-corona/)
+#### International
+-  MasksForDocs - https://masksfordocs.com/
+-  GetUsPPE - https://getusppe.org/makers/
+-  Helpful Engineering - https://www.helpfulengineering.org/volunteer/
+
+#### Germany
+-  MakerVsVirus - https://www.makervsvirus.org/
+-  MedPrint - http://medprint.org/ 
+-  print2protect - https://info743967.typeform.com/to/o8l610
+
+#### UK
+-  National 3D Printing Society (some US as well) - https://national3dprintingsociety.co.uk/
+
+#### Spain
+-  Coronavirus Makers - https://www.coronavirusmakers.org/
+
 ### selected 3D-Printed Projects
 
 #### Hands Free door openers
