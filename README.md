@@ -45,6 +45,7 @@ Information about tests conducted per country
 - Google spreadsheet - https://docs.google.com/spreadsheets/d/1pYXP41wKxSZS5fKO8ScrTB4duj6r4Ho_-ifyxg0WHGY/edit#gid=0
 - JSON time-series - https://github.com/pomber/covid19
 - CSV time-series - https://github.com/datasets/covid-19
+- Alternative "awesome-coronavirus" - https://github.com/soroushchehresa/awesome-coronavirus
 
 ### Simulations
 
