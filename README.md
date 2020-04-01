@@ -29,7 +29,8 @@ Information about tests conducted per country
 - https://epidemic-stats.com/coronavirus
 - Splunk - <https://covid-19.splunkforgood.com/coronavirus__covid_19_>
 - Bing COVID-19 Tracker - https://www.bing.com/covid
-
+- Live YouTube dashboard 1 - https://www.youtube.com/watch?v=qgylp3Td1Bw
+- Live YouTube dashboard 2 - https://www.youtube.com/watch?v=AJxfsREWKOs
 
 ## Data and research
 
