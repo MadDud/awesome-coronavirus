@@ -37,6 +37,7 @@ Information about tests conducted per country
 - COVID-19 Open Research Dataset - https://pages.semanticscholar.org/coronavirus-research
 - Build a solution for the COVID-19 crisis - https://covid19challenge.mit.edu/
 - https://www.rki.de/EN/Home/homepage_node.html
+- Spreading time table with genome simiarity analysis - https://nextstrain.org/ncov/2020-03-27
 
 ### REST API
 
