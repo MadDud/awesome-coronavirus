@@ -130,6 +130,7 @@ Information about tests conducted per country
 - Informations en français https://ufsp-coronavirus.ch
 - Online diagnosis - https://coronavirus.unisante.ch/en
 - Tracker - https://www.corona-data.ch/
+- Tracker - https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/5ed2e108dbab4235a7318d1cfe147e7a
 
 ### United Kingdom
 
