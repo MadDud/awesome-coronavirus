@@ -20,6 +20,10 @@ Information about tests conducted per country
 - https://www.worldometers.info/coronavirus/covid-19-testing/
 - Online diagnosis - https://covid.apollo247.com/
 
+## Vaccination
+
+- https://ourworldindata.org/covid-vaccinations?country=~CHE
+
 ## Dashboards
 
 - Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University - (JHU) https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
