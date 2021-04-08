@@ -94,6 +94,7 @@ Information about tests conducted per country
 
 ### Italy
 
+- https://www.governo.it/it/cscovid19/report-vaccini/
 - http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp
 
 ### Japan
